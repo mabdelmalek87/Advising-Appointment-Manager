@@ -1,6 +1,6 @@
 # Advising-Appointment-Manager
 A complete CRUD desktop application built with Python, Tkinter, MySQL, and CSV Export.
-# Student Registration System
+
 
 A complete CRUD desktop application built with Python, Tkinter, MySQL, and CSV Export.
 
